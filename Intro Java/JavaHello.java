@@ -10,7 +10,7 @@
 public class JavaHello {
 
     	public static void main(String[] args) {
-    		String satu = "Hello";
+    		String satu = "Hello ";
     		String dua = "Java";
     		String text = satu + dua;
     		System.out.println (text);
