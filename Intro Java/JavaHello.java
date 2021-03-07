@@ -10,9 +10,9 @@
 public class JavaHello {
 
     	public static void main(String[] args) {
-    		String nama = "Nabil Anugerah Pangestu";
-    		String tanya = "Hello semuanya, Perkenalkan nama saya " + nama + ". Saya adalah seorang Front-End Developer Di perusahaan Anugerah.";
-    		String text = tanya + nama;
+    		String satu = "Hello";
+    		String dua = "Java";
+    		String text = satu + dua;
     		System.out.println (text);
 	    }  
 }
